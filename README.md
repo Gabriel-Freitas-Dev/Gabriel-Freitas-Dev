@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__gab.f)
 
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Gabriel-Freitas-Dev&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -19,7 +19,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Freitas-Dev&show_icons=true" />
-</picture>
+</picture> -->
 
 <br/>
 
@@ -48,6 +48,7 @@ https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoC
 
 <br/>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-freitas-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 > *Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças –*
 >**Charles Darwin**
