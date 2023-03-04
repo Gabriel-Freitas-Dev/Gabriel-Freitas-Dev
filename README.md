@@ -1,4 +1,4 @@
-## Ola, Sou o Gabriel Freitas ✋
+## Ola, Sou o Gabriel  ✋
 <br/>
 
 ### Desenvolvedor Fullstack, técnico em informatica formado pelo Insituto Federal do Paraná
